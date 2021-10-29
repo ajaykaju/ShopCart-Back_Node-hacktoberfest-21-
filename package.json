@@ -1,0 +1,32 @@
+{
+  "name": "ShopCart(Back_Node)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "env-cmd -f ./config/dev.env nodemon node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Ajay K",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
+    "@types/bcryptjs": "^2.4.2",
+    "@types/express": "^4.17.12",
+    "@types/jsonwebtoken": "^8.5.1",
+    "@types/node": "^15.12.2",
+    "@types/validator": "^13.1.4",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.13",
+    "url-parse": "^1.5.1",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "@types/url-parse": "^1.4.3",
+    "env-cmd": "^10.1.0",
+    "nodemon": "^2.0.7"
+  }
+}

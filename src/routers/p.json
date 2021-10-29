@@ -1,0 +1,161 @@
+{
+  "sellerAndPolicies": {
+    "policies": ["7 Days Replacement Policy", "GST invoice available"],
+    "name": "TelTech Commerce"
+  },
+  "parent": "mobiles",
+  "categories": [
+    "storage=128 gb",
+    "smart phone",
+    "ram=6 gb",
+    "network type=4G",
+    "poco",
+    "brand=poco",
+    "battery capacity=5000 mah"
+  ],
+  "images": [
+    "https://rukminim1.flixcart.com/image/416/416/kklhbbk0/mobile/m/s/f/m3-mzb0879in-poco-original-imafzxf686qtxq2x.jpeg?q=70",
+    "https://rukminim1.flixcart.com/image/416/416/kklhbbk0/mobile/w/k/2/m3-mzb0879in-poco-original-imafzxf65mefhdrr.jpeg?q=70",
+    "https://rukminim1.flixcart.com/image/416/416/kkoc70w0/mobile/l/5/5/m3-mzb0879in-poco-original-imafzyx8dkyvjyt5.jpeg?q=70"
+  ],
+  "highlights": [
+    "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+    "16.59 cm (6.53 inch) Full HD+ Display",
+    "48MP + 2MP + 2MP | 8MP Front Camera",
+    "6000 mAh Lithium-ion Polymer Battery",
+    "Quadslcomm Sneapdragon 662 Processor"
+  ],
+  "title": "PUCO M3 (Power Black, 128 GB)  (6 GB RAM)",
+  "rating": "4.3",
+  "currentPrice": 11999,
+  "actualPrice": 14999,
+  "briefDescription": "The PUCO M3 features a textured back panel and a premium leather-like finish to offer an elegant look to this smartphone.",
+  "availableOffers": [
+    {
+      "title": "Bank Offer",
+      "offer": "7% Instant Discount on EMI transactions using YESEE bank Credit cards"
+    },
+    {
+      "title": "Bank Offer",
+      "offer": "5% Unlimited Cashback on ShopCart Axess Bank Credit Card"
+    },
+    {
+      "title": "Special Price",
+      "offer": "Extra ₹3000 off(price inclusive of discount)"
+    }
+  ],
+  "warranty": "One Year Warranty for Handset, 6 Months for Accessories",
+  "descriptions": [
+    {
+      "title": "Premium Design",
+      "description": "The PUCO M3 features a textured back panel and a premium leather-like finish to offer an elegant look to this smartphone. Also, it has a side-mounted fingerprint sensor that adds a premium style and convenience."
+    },
+    {
+      "title": "Battery Life",
+      "description": "The PUCO M3 comes with a massive battery that offers up to 672 hours of standby time. Also, the 18 W fast charging feature quickly boosts the battery life of this smartphone to ensure that your phone is always up and running."
+    }
+  ],
+  "specifications": [
+    {
+      "name": "General",
+      "specification": [
+        {
+          "title": "In The Box",
+          "content": "Handset, Power Adaptor, USB Type-C Cable, SIM Ejector Tool, User Guide, Soft Case"
+        },
+        {
+          "title": "Model Number",
+          "content": "MZB087BIN"
+        },
+        {
+          "title": "Model Name",
+          "content": "M3"
+        },
+        {
+          "title": "Color",
+          "content": "Cool Blue"
+        },
+        {
+          "title": "Browse Type",
+          "content": "Smartphones"
+        },
+        {
+          "title": "SIM Type",
+          "content": "Dual Sim"
+        },
+        {
+          "title": "Hybrid Sim Slot",
+          "content": "No"
+        },
+        {
+          "title": "Touchscreen",
+          "content": "Yes"
+        },
+        {
+          "title": "OTG Compatible",
+          "content": "Yes"
+        },
+        {
+          "title": "Quick Charging",
+          "content": "Yes"
+        },
+        {
+          "title": "Sound Enhancements",
+          "content": "Dual Speakers, Hi-Res Audio Certified"
+        },
+        {
+          "title": "SAR Value",
+          "content": "Head - 0.868 W/Kg, Body - 0.865 W/Kg"
+        }
+      ]
+    },
+    {
+      "name": "Memory & Storage Features",
+      "specification": [
+        {
+          "title": "Internal Storage",
+          "content": "128 GB"
+        },
+        {
+          "title": "RAM",
+          "content": "6 GB"
+        },
+        {
+          "title": "Expandable Storage",
+          "content": "512 GB"
+        },
+        {
+          "title": "Supported Memory Card Type",
+          "content": "microSD"
+        },
+        {
+          "title": "Memory Card Slot Type",
+          "content": "Dedicated Slo"
+        }
+      ]
+    },
+    {
+      "name": "Warranty",
+      "specification": [
+        {
+          "title": "Warranty Summary",
+          "content": "One Year Warranty for Handset, 6 Months for Accessories"
+        },
+        {
+          "title": "Domestic Warranty",
+          "content": "1 Year"
+        }
+      ]
+    }
+  ],
+  "manufactureAndOtherInfo": [
+    {
+      "title": "Manufactured by",
+      "content": "Red Wine Technology Pvt. Ltd., Oyasis Block, Marry Village - 228283, DC"
+    },
+    {
+      "title": "Imported by",
+      "content": "Modern Worlds Sales, Retired Town, New York , Americas"
+    }
+  ]
+}
