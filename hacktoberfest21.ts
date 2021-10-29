@@ -3,3 +3,4 @@ console.log("hacktober fest 2021") // copy this and paste in new line and add yo
 console.log("hacktober fest ajayk@newagesmb.com")
 
 console.log("hacktober fest ashik@newagesmb.com")
+console.log("hacktober fest muhammedshazal@gmail.com")
